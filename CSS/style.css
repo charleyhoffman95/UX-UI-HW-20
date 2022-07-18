@@ -207,6 +207,10 @@ h2{
     font-weight: bold;
 }
 
+#mainHeader {
+    text-align: center;
+}
+
 
 @media screen and (max-width:650px) {
     .card {
