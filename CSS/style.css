@@ -243,7 +243,25 @@ h2{
     padding-top: 2%;
 }
 
+.row {
+    padding: 0 20px 0 20px;
+}
 
+#overview {
+    background-color: #FFF4DD;
+}
+
+.heroTitle {
+    background-color: #FFF4DD;
+}
+
+#siteMapImg {
+    margin-left: 30%;
+}
+
+#cardSortImgs {
+    margin-left: 17%;
+}
 
 @media screen and (max-width:650px) {
     .card {
