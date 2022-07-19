@@ -211,6 +211,10 @@ h2{
     text-align: center;
 }
 
+.jumbo {
+    padding-bottom: 3%;
+}
+
 
 @media screen and (max-width:650px) {
     .card {
