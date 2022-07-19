@@ -231,6 +231,17 @@ h2{
     padding-bottom: 3%;
 }
 
+#rootProblem {
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+#infoArc {
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
 
 @media screen and (max-width:650px) {
     .card {
