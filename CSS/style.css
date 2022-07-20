@@ -297,6 +297,12 @@ h2{
     padding-right: 5%;
 }
 
+#lowFiMobile {
+    padding-top: 2%;
+    padding-left: 5;
+    padding-right: 5;
+}
+
 /* Media Query */
 
 @media screen and (max-width:650px) {
