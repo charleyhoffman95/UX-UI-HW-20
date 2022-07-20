@@ -299,8 +299,75 @@ h2{
 
 #lowFiMobile {
     padding-top: 2%;
-    padding-left: 5;
-    padding-right: 5;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+
+#lowFiMobileHeader {
+    font-size: 170%;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+#lowFiDesktopHeader {
+    font-size: 170%;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+#lowFiDesktop {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+
+.lowFidelity {
+    background-color: #FFF4DD;
+}
+
+#hiFiMockups {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#hiFiMockupsHeader {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#hiFiMobileHeader {
+    font-size: 170%;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+#hiFiMobile {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+
+.hiFidelity {
+    background-color: #FFF4DD;
+}
+
+#footer {
+    padding-right: 20%;
+}
+
+#finalThoughts {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
 }
 
 /* Media Query */
