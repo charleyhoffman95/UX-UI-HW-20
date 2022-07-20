@@ -207,6 +207,8 @@ h2{
     font-weight: bold;
 }
 
+/* start of case study page*/
+
 #mainHeader {
     text-align: center;
     padding-bottom: 2%;
@@ -254,6 +256,21 @@ h2{
 
 #overview {
     background-color: #FFF4DD;
+    padding-top: .3%;
+}
+
+#problemSolution {
+    padding-top: 1%
+}
+
+#research {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#defIdeation {
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .heroTitle {
@@ -263,11 +280,24 @@ h2{
 
 #siteMapImg {
     margin-left: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 #cardSortImgs {
     margin-left: 17%;
 }
+
+.rootBeige {
+    background-color: #FFF4DD;
+}
+
+#wireframeTesting {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+/* Media Query */
 
 @media screen and (max-width:650px) {
     .card {
