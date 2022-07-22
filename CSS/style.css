@@ -363,6 +363,13 @@ h2{
     padding-right: 20%;
 }
 
+#footerRedesign {
+    padding-top: 2%;
+    font-size: 170%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
 #finalThoughts {
     padding-top: 2%;
     padding-left: 5%;
