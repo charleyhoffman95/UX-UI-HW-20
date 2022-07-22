@@ -4,7 +4,7 @@ $(".dropdown").on("click", function(){
     $('.menuItems').slideToggle();
 });
 
-$(".backToTop").on("click",function(){
-    $(".btt").scrollTop();
+$("#MWR").on("click",function(){
+    $("#research").scrollIntoView();
   });
 
